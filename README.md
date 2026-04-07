@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Ashwik 👋
 
 **Full-Stack Developer (Frontend Focus)**
