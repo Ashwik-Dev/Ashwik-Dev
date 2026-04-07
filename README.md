@@ -1,50 +1,50 @@
-# Ashwik 👋
+<h1 align="center">HI 👋 I'am Ashwik</h1>
+<p align="center"><b>Full-Stack Developer (Frontend Focus)</b></p>
 
-**Full-Stack Developer (Frontend Focus)**
+<p align="center">
+Building real-world web apps • Working with healthcare clients • Growing into backend systems
+</p>
 
-* Building clean, scalable web apps with modern tools.
-* Working on real-world freelance projects for healthcare businesses.
-* Currently leveling up in backend & production-ready systems.
+<br/>
 
----
+### 💻 What I work with
 
-## ⚡ Stack
+* JavaScript, React, Next.js
+* Tailwind CSS, Bootstrap, SCSS
+* PHP, Node.js (learning), REST APIs
+* Git, GitHub, VS Code, Linux
+* Comfortable using AI tools to speed up development
 
-* **Frontend:** JavaScript · React · Next.js
-* **Styling:** Tailwind CSS · Bootstrap · SCSS
-* **Backend (Learning):** Node.js · APIs
-* **Tools:** Git · GitHub · VS Code · Linux
-* **AI:** ChatGPT · GitHub Copilot
+<br/>
 
----
+### 🧠 What I focus on
 
-## 🧠 Focus
-
-* Real-world project building
-* Clean architecture & scalable code
+* Real-world problem solving
+* Clean, maintainable code
 * Full-stack development
 
----
+<br/>
 
-## 📂 Work
+### 📂 Work
 
-🔗 github.com/Ashwik-Dev
+👉 [github.com/Ashwik-Dev](https://github.com/Ashwik-Dev)
 
-* Practical builds. Strong fundamentals. Real client exposure.
+I work on real-world web solutions for healthcare businesses, building user-friendly and scalable applications.
 
----
+<br/>
 
-## 🤝 Open To
+### 🤝 Open to
 
-Freelance · Collaborations
+Freelance work • Collaborations
 
----
+<br/>
 
-## 📫 Reach me at
+### 📫 Reach me out
 
-LinkedIn: www.linkedin.com/in/ashwik-srikakulapu
 email: ashwiksrikakulapu@gmail.com
 
----
+LinkedIn: [linkedin.com/in/ashwik-srikakulapu/](https://www.linkedin.com/in/ashwik-srikakulapu/)
 
-⭐ *Build → Improve → Repeat*
+<br/>
+
+<p align="center">⭐ Build → Improve → Repeat</p>
