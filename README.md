@@ -1,16 +1,51 @@
 ## Hi there 👋
 
-<!--
-**Ashwik-Dev/Ashwik-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ashwik 👋
 
-Here are some ideas to get you started:
+**Full-Stack Developer (Frontend Focus)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building clean, scalable web apps with modern tools.
+Working on real-world freelance projects for healthcare businesses.
+Currently leveling up in backend & production-ready systems.
+
+---
+
+## ⚡ Stack
+
+**Frontend:** JavaScript · React · Next.js
+**Styling:** Tailwind CSS · Bootstrap · SCSS
+**Backend (Learning):** Node.js · APIs
+**Tools:** Git · GitHub · VS Code · Linux
+**AI:** ChatGPT · GitHub Copilot
+
+---
+
+## 🧠 Focus
+
+* Real-world project building
+* Clean architecture & scalable code
+* Full-stack development
+
+---
+
+## 📂 Work
+
+🔗 github.com/Ashwik-Dev
+
+Practical builds. Strong fundamentals. Real client exposure.
+
+---
+
+## 🤝 Open To
+
+Freelance · Collaborations
+
+---
+
+## 📫 Contact
+
+Add your email / LinkedIn
+
+---
+
+⭐ *Build → Improve → Repeat*
