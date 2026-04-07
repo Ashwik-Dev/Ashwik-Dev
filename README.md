@@ -40,9 +40,10 @@ Freelance · Collaborations
 
 ---
 
-## 📫 Contact
+## 📫 Reach me at
 
-Add your email / LinkedIn
+LinkedIn: www.linkedin.com/in/ashwik-srikakulapu
+email: ashwiksrikakulapu@gmail.com
 
 ---
 
